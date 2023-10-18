@@ -1,4 +1,10 @@
 # Excel-Projects
+Stpes to open the file:
+1) Download The repositories into your systme by clicking
+   Code option then click the button Download ZIP
+2) Next open up excel, click on OPEN option and select the file you downloaded
+3) Now you can view the Vrinda Store Report Sheet and many datas about Vrinda Store.
+
 Greetings Everyone!
 I'm pleased to share the results of my comprehensive analysis of Vrinda Store, which was conducted using Microsoft Excel.
 
